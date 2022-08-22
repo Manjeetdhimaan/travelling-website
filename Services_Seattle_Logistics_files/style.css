@@ -2464,7 +2464,8 @@ Call To Action
 }
 
 .call-to-action-section .section-title-wrapper .section-title {
-	color: #fff;
+	/* color: #fff; */
+	color: #333;
 	font-size: 32px;
 }
 
